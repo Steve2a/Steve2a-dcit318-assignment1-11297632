@@ -1,0 +1,15 @@
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\obj\Debug\net9.0\TriangleTypeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\obj\Debug\net9.0\TriangleTypeApp.AssemblyInfoInputs.cache
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\obj\Debug\net9.0\TriangleTypeApp.AssemblyInfo.cs
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\obj\Debug\net9.0\TriangleTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\obj\Debug\net9.0\TriangleTypeApp.sourcelink.json
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\bin\Debug\net9.0\TriangleTypeApp.exe
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\bin\Debug\net9.0\TriangleTypeApp.deps.json
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\bin\Debug\net9.0\TriangleTypeApp.runtimeconfig.json
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\bin\Debug\net9.0\TriangleTypeApp.dll
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\bin\Debug\net9.0\TriangleTypeApp.pdb
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\obj\Debug\net9.0\TriangleTypeApp.dll
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\obj\Debug\net9.0\refint\TriangleTypeApp.dll
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\obj\Debug\net9.0\TriangleTypeApp.pdb
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\obj\Debug\net9.0\TriangleTypeApp.genruntimeconfig.cache
+C:\Users\Stephen\Downloads\L300\318\Steve2a-dcit318-assignment1-11297632\TriangleTypeApp\obj\Debug\net9.0\ref\TriangleTypeApp.dll
